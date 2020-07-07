@@ -6,6 +6,8 @@ ROCm					# https://rocmdocs.amd.com/en/latest/index.html
 
 ROCm Intall Guide 			# https://rocmdocs.amd.com/en/latest/Installation_Guide/Installation-Guide.html
 
+Supported Servers			# https://www.amd.com/en/graphics/servers-radeon-instinct-mi-powered-servers
+
 ~/rocm-tools				# https://github.com/umanglaamd/rocm-tools
 ~/rocminstaller				# https://github.com/srinivamd/rocminstaller
 
