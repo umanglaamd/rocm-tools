@@ -3,5 +3,5 @@ while true
 do
 clear
 cpupower monitor 
-sleep 2
+sleep 3
 done
